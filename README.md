@@ -9,7 +9,7 @@
   - ### SQL
   - ### Python
   - ### Voila Library 
-  ### to analyze the performance of a hypothetical fintech ETF.
+### To analyze the performance of a hypothetical fintech ETF.
   
 ### Deliverables will be in a Jupyter notebook containing:
   - ### Analysis of the ETF data that a SQL database stores
@@ -31,8 +31,6 @@
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/DigitalGoldRush?tab=repositories)
 
-[![Python - GeoViews](https://img.shields.io/badge/Python-GeoViews-blue?style=for-the-badge)](http://geoviews.org/)
-
 ---
 
 ## Installation Guide
@@ -48,9 +46,9 @@ $ pip install jupyterlab
 ```
 $ pip install notebook
 ```
-### 2. The recommended way to install hvPlot is using the conda command
+### 2. Voila can be installed with the mamba or conda package manager:
   ```
-conda install -c pyviz hvplot
+mamba install -c conda-forge voila
 ```
 ### 3. To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
 ```
@@ -66,9 +64,9 @@ $ import pandas
 
 ### Pandas has many features, which was used in the code creation, and can be found at the link above. 
 
-## [hvPlot](https://hvplot.holoviz.org/#)
+## [![voila server badge](https://img.shields.io/badge/Using-Voila-9cf)](https://voila.readthedocs.io/en/stable/using.html)
 
-### Features used:
+## Features used:
 
 ### Plotting Points
 [![Basic Plot](https://github.com/DigitalGoldRush/Module-6-Challenge/blob/main/Images/6-4-geoviews-plot.png)](https://hvplot.holoviz.org/user_guide/Geographic_Data.html)
