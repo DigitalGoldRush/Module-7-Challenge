@@ -25,7 +25,8 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-[<img alt="DjangoREST" src="https://img.shields.io/badge/PyPI-pyviz-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/pyviz/)
+[![voila server badge](https://img.shields.io/badge/Using-Voila-9cf)](https://voila.readthedocs.io/en/stable/using.html)
+
   
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
@@ -64,7 +65,7 @@ $ import pandas
 
 ### Pandas has many features, which was used in the code creation, and can be found at the link above. 
 
-## [![voila server badge](https://img.shields.io/badge/Using-Voila-9cf)](https://voila.readthedocs.io/en/stable/using.html)
+## [![voila server badge](https://img.shields.io/badge/Deploying-Voila-9cf)](https://voila.readthedocs.io/en/stable/deploy.html)
 
 ## Features used:
 
