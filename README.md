@@ -1,17 +1,19 @@
 # Module-7-Challenge
 
-## Build a Financial Database & use the Voila library to analyze a hypothetical ETF.
+## Build a Web Application that allows an investor to analyze an ETF for passive investing.
 ---
 
 ![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-7-Challenge/blob/main/man%20with%20modern%20computer.jpeg)
 
-### Analyst for a Proptech company to find viable Investment Properties in SF Rental Market
-### Application of numerous data visualization techniques:
-  - ### aggregation
-  - ### interactive graphs
-  - ### geospatial analysis 
+### Building a financial database & web app using:
+  - ### SQL
+  - ### Python
+  - ### Voila Library 
+  ### to analyze the performance of a hypothetical fintech ETF.
   
-### Deliverables will be Jupyter notebook with formated interactive visualizations
+### Deliverables will be in a Jupyter notebook containing:
+  - ### Analysis of the ETF data that a SQL database stores
+  - ### Professionally styled and formated interactive visualizations
 ---
 
 ## Technology Used
