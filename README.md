@@ -1,9 +1,9 @@
 # Module-7-Challenge
 
-## Finding Viable Investment Properties in SF Rental Market: (Data Visualization with GeoSpatial Analysis)
+## Build a Financial Database & use the Voila library to analyze a hypothetical ETF.
 ---
 
-![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-6-Challenge/blob/main/Resources/lombard%20street%20overhead.jpeg)
+![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module-7-Challenge/blob/main/man%20with%20modern%20computer.jpeg)
 
 ### Analyst for a Proptech company to find viable Investment Properties in SF Rental Market
 ### Application of numerous data visualization techniques:
