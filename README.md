@@ -28,6 +28,8 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
+[<img alt="DjangoREST" src="https://img.shields.io/badge/PyData-hvPlot-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/python-dotenv/)
+  
 [![voila server badge](https://img.shields.io/badge/Using-Voila-9cf)](https://voila.readthedocs.io/en/stable/using.html)
 
   
@@ -67,15 +69,11 @@ $ import pandas
 pip install hvplot
 ```
 ---
-
 ## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
 ### Pandas has many features, which was used in the code creation, and can be found at the link above. 
 
-
 ## [hvPlot Usage](https://hvplot.holoviz.org/index.html)
-### Plotting Points
-[![Basic Plot](https://github.com/DigitalGoldRush/Module-6-Challenge/blob/main/Images/6-4-geoviews-plot.png)](https://hvplot.holoviz.org/user_guide/Geographic_Data.html)
-
+### hvPlot has many features, which was used in the code creation, and can be found at the link above. 
 ---
 ## Contributors
 
