@@ -13,7 +13,10 @@
   
 ### Deliverables will be in a Jupyter notebook containing:
   - ### Analysis of the ETF data that a SQL database stores
-  - ### Professionally styled and formated interactive visualizations
+  - ### Professionally styled and formated interactive visualizations 
+  
+### To interact with completed code click button
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FDigitalGoldRush%2FModule-7-Challenge/main)
 ---
 
 ## Technology Used
@@ -55,20 +58,21 @@ mamba install -c conda-forge voila
 ```
 $ import pandas
 ```
-### 4. GeoViews installation with PIP
+### 4. Recommended way to install hvPLot is using the conda command
   ```
- conda install -c pyviz geoviews
+ conda install -c pyviz hvplot
 ``` 
+   ### Or using PyPI
+```
+pip install hvplot
+```
 ---
 
 ## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
-
 ### Pandas has many features, which was used in the code creation, and can be found at the link above. 
 
-## [![voila server badge](https://img.shields.io/badge/Deploying-Voila-9cf)](https://voila.readthedocs.io/en/stable/deploy.html)
 
-## Features used:
-
+## [hvPlot Usage](https://hvplot.holoviz.org/index.html)
 ### Plotting Points
 [![Basic Plot](https://github.com/DigitalGoldRush/Module-6-Challenge/blob/main/Images/6-4-geoviews-plot.png)](https://hvplot.holoviz.org/user_guide/Geographic_Data.html)
 
