@@ -16,7 +16,7 @@
   - ### Professionally styled and formated interactive visualizations 
   
 ### To interact with completed code click button
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FDigitalGoldRush%2FModule-7-Challenge/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DigitalGoldRush/Module-7-Challenge/main)
 ---
 
 ## Technology Used
